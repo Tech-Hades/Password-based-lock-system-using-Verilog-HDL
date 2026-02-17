@@ -32,7 +32,7 @@ The lock opens only when the correct password sequence is entered.
 ## Output Waveform
 The waveform below shows successful unlocking after entering the correct password sequence (1-2-3-4):
 
-![Output Waveform](output_waveform.png)
+![Output Waveform](Output_waveform.png)
 
 ## Files
 - `design.sv` – Password lock module  
