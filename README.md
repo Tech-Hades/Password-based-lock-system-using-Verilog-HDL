@@ -1,5 +1,4 @@
-# Password-based-lock-system-using-Verilog-HDL
-Password based lock system using Verilog HDL
+# Password based lock system using Verilog HDL
 
 A simple **password-based digital lock system** implemented using **Verilog HDL**.  
 The lock opens only when the correct password sequence is entered.
